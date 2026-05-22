@@ -12,9 +12,6 @@ Web je vytvořen čistě pomocí HTML, CSS a JavaScriptu bez frameworků.
 
 ---
 
-# 📸 Náhled
-<img src="assets/preview.png" width="100%" />
-
 ## Hlavní funkce webu
 
 ✅ Moderní dark UI  
