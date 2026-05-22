@@ -13,6 +13,7 @@ Web je vytvořen čistě pomocí HTML, CSS a JavaScriptu bez frameworků.
 ---
 
 # 📸 Náhled
+<img src="assets/preview.png" width="100%" />
 
 ## Hlavní funkce webu
 
@@ -153,7 +154,7 @@ nebo spustit přes lokální server.
 
 - 🌐 Web: https://basldev.fun
 - 📧 Email: basleduard@gmail.com
-- 💬 Discord: eduardbasl
+- 💬 Discord: https://discord.com/users/845271396858331237
 - 🖥️ GitHub: https://github.com/eduardbasl-coder
 
 ---
