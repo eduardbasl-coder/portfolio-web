@@ -134,6 +134,10 @@ nebo spustit přes lokální server.
 
 # 📌 Budoucí plány
 
+- ✅ Formulář
+- ✅ Kolonka Spolupráce
+- ✅ Rozvoj animací
+- ✅ Přidání Fotogalerie
 - [ ] Backend
 - [ ] Databáze
 - [ ] Admin panel
